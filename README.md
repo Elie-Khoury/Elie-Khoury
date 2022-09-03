@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Elie-Khoury
+- 🌱 I’m currently learning React to improve my Web Development skills.
+- 📫 You can contact me via email: "elie.c.khoure@gmail.com" for any projects or collaborations.
