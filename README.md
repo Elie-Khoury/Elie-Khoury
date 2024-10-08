@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209158.gif">
 🔭 I'm currently developing the frontend for a tutoring platform called 'Arafix.'<br><br>👯 I’m actively seeking opportunities to collaborate with other developers to enhance my teamwork skills and expand my knowledge.<br><br>🌱 I’m currently learning .NET to strengthen my skills in the backend field.<br><br>📫 How to reach me elie.c.khoure@gmail.com
 
 
@@ -15,7 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Elie-Khoury&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209158.gif">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
