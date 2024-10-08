@@ -3,7 +3,7 @@
 🔭 I'm currently developing the frontend for a tutoring platform called 'Arafix.'<br><br>👯 I’m actively seeking opportunities to collaborate with other developers to enhance my teamwork skills and expand my knowledge.<br><br>🌱 I’m currently learning .NET to strengthen my skills in the backend field.<br><br>📫 How to reach me elie.c.khoure@gmail.com
 
 
-🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Eliekhourre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elie-khoury-a0b06821b) 
 
 # 💻 Tech Stack:
