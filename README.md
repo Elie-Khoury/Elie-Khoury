@@ -1,5 +1,4 @@
 # 💫 About Me:
-<img align="right" alt="Coding" padding="5" width="300" src="https://giffiles.alphacoders.com/209/209158.gif">
 🔭 I'm currently developing the frontend for a tutoring platform called 'Arafix.'<br><br>👯 I’m actively seeking opportunities to collaborate with other developers to enhance my teamwork skills and expand my knowledge.<br><br>🌱 I’m currently learning .NET to strengthen my skills in the backend field.<br><br>📫 How to reach me elie.c.khoure@gmail.com
 
 
